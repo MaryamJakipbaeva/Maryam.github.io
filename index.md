@@ -27,5 +27,5 @@ def hello_world():
     print("Hello, world!")
 
 Here is the a random picture from the Internet:
-![image](http://picsum.photos/200/250)
+![alt text](http://picsum.photos/200/250)
 
