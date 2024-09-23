@@ -5,7 +5,6 @@
 
 Here is a paragraph with some **bold text** and some *italic text*.
 
-I like  `#ffffff` white color
 
  During my free time i like watching YouTube video. Here is the link for [Youtube](https://www.youtube.com/).
 
@@ -26,4 +25,7 @@ Today I have learnt how to make `inline` code
 ```python
 def hello_world():
     print("Hello, world!")
+
+Here is the a random picture from the Internet:
+![image](http://picsum.photos/200/250)
 
