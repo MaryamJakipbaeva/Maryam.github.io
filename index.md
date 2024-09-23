@@ -26,6 +26,13 @@ Today I have learnt how to make `inline` code
 def hello_world():
     print("Hello, world!")
 ```
-Here is the a random picture from the Internet:
+
 ![alt text](http://picsum.photos/200/250)
+
+This is the a random picture from the Internet
+
+ Quote of The Day!
+ > If you can't do great things, do small things is a great way!
+Napoleon Hill
+
 
