@@ -20,7 +20,8 @@ My to-do list
 - come back home
 - do some homework
 
-### Code Blocks
+Today I have learnt how to make `inline` code 
+### This is a Python simple hello world code!
 
 ```python
 def hello_world():
