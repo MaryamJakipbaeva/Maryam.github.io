@@ -36,4 +36,8 @@ This is the a random picture from the Internet
 
 Napoleon Hill
 
+Here is a table:
+| Header 1 | Header 2 | Header 3 |
+| --- | --- | --- |
+| content 1 | content 2 | content 3 |
 
