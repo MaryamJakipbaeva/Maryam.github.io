@@ -25,7 +25,7 @@ Today I have learnt how to make `inline` code
 ```python
 def hello_world():
     print("Hello, world!")
-
+```
 Here is the a random picture from the Internet:
 ![alt text](http://picsum.photos/200/250)
 
