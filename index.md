@@ -33,6 +33,7 @@ This is the a random picture from the Internet
 
  Quote of The Day!
  > If you can't do great things, do small things is a great way!
+
 Napoleon Hill
 
 
