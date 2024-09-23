@@ -1,8 +1,10 @@
-# Welcome to My GitHub Pages Site
+# Welcome to My Page
 
-## This is a subheading
+## My name is Bibimaryam Jakipbaeva
+### I am a student at OAMK University of Applied Sciences 
 
 Here is a paragraph with some **bold text** and some *italic text*.
+I like  `#ffffff` white color
 
 ### Code Blocks
 
